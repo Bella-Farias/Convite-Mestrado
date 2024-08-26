@@ -3,6 +3,10 @@
         width: 90%;
     }
 
+    .header{
+        margin-top: 10%;
+    }
+
     img{
         flex: 10%;
     }
