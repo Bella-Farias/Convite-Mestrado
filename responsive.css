@@ -4,7 +4,7 @@
     }
 
     .header{
-        margin-top: 15%;
+        margin-top: 12%;
     }
 
     img{
@@ -21,7 +21,7 @@
     }
 
     .text{
-        flex: 60%;
+        flex: 55%;
 
         font-size: 16px;
     }
